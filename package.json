@@ -1,0 +1,15 @@
+{
+  "name": "bot-r",
+  "version": "1.0.0",
+  "description": "A runescape botting library",
+  "main": "bot-r.js",
+  "scripts": {
+    "start": "node bot-r.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Szopa",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.4.5"
+  }
+}
