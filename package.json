@@ -1,7 +1,7 @@
 {
   "name": "bot-r",
   "version": "1.0.0",
-  "description": "A runescape botting library",
+  "description": "A cross platform NodeJS computer botting client/library",
   "main": "bot-r.js",
   "scripts": {
     "start": "node bot-r.js",
